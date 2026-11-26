@@ -1,0 +1,18 @@
+{
+  "name": "covertpool",
+  "version": "1.0.0",
+  "description": "COVERTPOOL ($COVERTPOOL) — Private OTC, hidden balances, stealth buys, and private launches on Solana.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "solana",
+    "privacy",
+    "otc",
+    "stealth",
+    "covertpool"
+  ],
+  "author": "WerelayAgent",
+  "license": "MIT"
+}

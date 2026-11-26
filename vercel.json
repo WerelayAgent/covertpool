@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!js/|fonts/|brand/|m/|.*\\..*).*)", "destination": "/index.html" }
+  ]
+}
